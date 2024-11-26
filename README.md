@@ -28,7 +28,7 @@ y Composer.
 ● Flutter: descargar flutter_windows_3.22.2-stable.
 
 
-COMANDOS PARA  CORRER POWERSHELL
+COMANDOS PARA  CORRER POWERSHEll
 
 Run: Configserve TareaApplication
 
