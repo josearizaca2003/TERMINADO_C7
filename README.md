@@ -1,9 +1,14 @@
 # PROYECTO-MOVILES-FINAL
 INTEGRANTES 
+
 Jose Daniel Quispe Arizaca
+
 Darwin Juliño Condori Mamani
+
 Frank Diego Choquehuanca Huayhua
+
 Dyana Zarayd Pari Quispe
+
 
 1. REQUISITOS
 ● Sistema Operativo: Windows y Android Studio(recomendado para Laragon).
