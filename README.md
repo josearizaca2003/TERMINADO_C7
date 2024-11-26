@@ -7,7 +7,7 @@ Darwin Juliño Condori Mamani
 
 Frank Diego Choquehuanca Huayhua
 
-Dyana Zarayd Pari Quispe
+joselin mayely condori tintaya
 
 
 1. REQUISITOS
